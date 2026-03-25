@@ -2,7 +2,7 @@
 A modular, data-driven slot reel engine built for the web.
 
 # Live Demo
-
+https://ankitraj0.github.io/reel-spin/
 
 # Features
 - Unity 6 Optimized: Built using 6000.0.67f1.
