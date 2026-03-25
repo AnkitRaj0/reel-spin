@@ -5,11 +5,11 @@ A modular, data-driven slot reel engine built for the web.
 https://ankitraj0.github.io/reel-spin/
 
 # Features
-- Unity 6 Optimized: Built using 6000.0.67f1.
+- **Unity 6 Optimized**: Built using 6000.0.67f1.
   
-- ScriptableObject Architecture: Easily swap symbol assets without modifying code.
+- **ScriptableObject Architecture**: Easily swap symbol assets without modifying code.
   
-- Smooth Easing: Custom AnimationCurves for professional "Sugar Rush" style bounces.
+- **Smooth Easing**: Custom AnimationCurves for professional "Sugar Rush" style bounces.
   
-- WebGL Performance: Lightweight UI-based rendering using RectMask2D for efficiency.
+- **WebGL Performance**: Lightweight UI-based rendering using RectMask2D for efficiency.
 
